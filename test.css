@@ -1,0 +1,19 @@
+#head1{
+	color:red;
+}
+#table1{
+	color: red;
+}
+#head2{
+	color: blue;
+}
+#para2{
+	color: blue;
+}
+#head3,#para3{
+	color: green;
+}
+.jpg{
+	margin-left: auto;
+	margin-right: auto;
+}
